@@ -1,1 +1,2 @@
-# basic_knowledge
+# Basic knowledge
+Most common functions and architectures to use 
